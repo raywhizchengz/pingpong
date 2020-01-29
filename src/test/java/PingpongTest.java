@@ -46,7 +46,6 @@ public class PingpongTest {
     public void runPingPong_replaceMultiplesOf5_ArrayList() {
         Pingpong testPingPong = new Pingpong();
         ArrayList<Object> expectedOutput = new ArrayList<Object>();
-
         expectedOutput.add(1);
         expectedOutput.add(2);
         expectedOutput.add("ping");
