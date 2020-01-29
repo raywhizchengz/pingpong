@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PingpongTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-01-29T11:19:41" hostname="maggpies" time="0.007">
+  <properties/>
+  <testcase name="runPingPong_countPingPong_ArrayList" classname="PingpongTest" time="0.003"/>
+  <testcase name="runPingPong_countUpToGivenNumber_ArrayList" classname="PingpongTest" time="0.0"/>
+  <testcase name="runPingPong_replaceMultiplesOf3_ArrayList" classname="PingpongTest" time="0.0"/>
+  <testcase name="runPingPong_replaceMultiplesOf5_ArrayList" classname="PingpongTest" time="0.0"/>
+  <testcase name="runPingPong_replaceMultiplesOfBoth3And5_ArrayList" classname="PingpongTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
