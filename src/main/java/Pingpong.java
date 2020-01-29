@@ -3,7 +3,6 @@ import java.util.List;
 
 public class Pingpong {
 
-
     public ArrayList<Object> runPingpong(int countUpTo) {
 
         ArrayList<Object> result = new ArrayList<Object>();
